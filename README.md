@@ -4,6 +4,7 @@ My name is Nikita Tereshchenko - Никита Терещенко
 ## My stack
 * Python
 * Django/DRF
+* FastAPI
 * Aiogram
 * Docker
 * Linux

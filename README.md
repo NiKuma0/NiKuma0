@@ -8,6 +8,7 @@ My name is Nikita Tereshchenko - Никита Терещенко
 * Aiogram
 * Docker
 * Linux
+* JS/TS
 
 ## You can contact me
 * [Telegram](https://t.me/NiKuma0)

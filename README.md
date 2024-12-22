@@ -2,13 +2,8 @@
 My name is Nikita Tereshchenko - Никита Терещенко
 
 ## My stack
-* Python
-* Django/DRF
-* FastAPI
-* Aiogram
-* Docker
-* Linux
-* JS/TS
+
+![NiKuma0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiKuma0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## You can contact me
 * [Telegram](https://t.me/NiKuma0)
